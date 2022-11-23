@@ -4,9 +4,10 @@
   "description": "Quick prototyping and mocking for front-end developers",
   "repository": "",
   "author": "",
+  "license": "MIT",
   "main": "dist/index.js",
   "engines": {
-    "node": "~6.9.1",
+    "node": "~18.12.0",
     "npm": ">=3.10.0"
   },
   "scripts": {
